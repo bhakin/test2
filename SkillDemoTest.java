@@ -5,6 +5,6 @@ public class SkillDemoTest{
 
     @Test
     public void testSkillDemo(){
-        assertEquals(10,SkillDemo.multiply(5,5));
+        assertEquals(10,SkillDemo.multiply(5,2));
     }
 }
